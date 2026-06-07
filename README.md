@@ -1,4 +1,4 @@
-# Hi, I'm Abd-el-hamed Hassan! 👋
+# Hi, I'm Abdelhamid Hassan! 👋
 
 I am a passionate backend engineer, system architect, and MLOps enthusiast, deeply curious about technology and dedicated to mastering the art of software engineering. My journey revolves around creating scalable enterprise applications, designing clean SaaS architectures, and diving deep into data lake infrastructure.
 
