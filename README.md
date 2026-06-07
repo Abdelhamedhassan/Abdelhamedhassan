@@ -1,14 +1,16 @@
-# Hi, I'm Abdelhamed Hassan! 👋
+# Hi, I'm Abd-el-hamed Hassan! 👋
 
 I am a passionate backend engineer, system architect, and MLOps enthusiast, deeply curious about technology and dedicated to mastering the art of software engineering. My journey revolves around creating scalable enterprise applications, designing clean SaaS architectures, and diving deep into data lake infrastructure.
 
+<!--
 <div align="center">
-  <!-- Main Stats: Includes total commits, PRs, Issues, and open-source contributions -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdelhamedhassan&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
+
+  <img src="https://stats-sigma-silk.vercel.app/api?username=Abdelhamedhassan&show_icons=true&include_all_commits=true&lifetime_commits=true&count_private=true&theme=dracula&cache_seconds=0" height="160" alt="GitHub Stats" />
   
-  <!-- Language Stats: Measures exact language byte sizes across all your repos -->
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdelhamedhassan&layout=compact&card_width=350&langs_count=10&theme=dracula" height="150" alt="Top Languages" />
+
+  <img src="https://stats-sigma-silk.vercel.app/api/top-langs/?username=Abdelhamedhassan&hide=jupyter%20notebook,html,css,svg,markdown&layout=compact&card_width=380&langs_count=7&theme=dracula&cache_seconds=0" height="160" alt="Top Languages" />
 </div>
+-->
 
 ## 🚀 About Me
 
@@ -18,7 +20,9 @@ I am a passionate backend engineer, system architect, and MLOps enthusiast, deep
 - 🎓 **Academics:** Computer Science Senior (Class of 2026), actively studying advanced Networking, Algorithms, and Social Data Analytics.
 
 ## 🛠️ Tech Stack & Tools
-[![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,typescript,postgres,mongodb,redis,docker,git,github,cpp,py,svg)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,py,cpp,nestjs,nodejs,postgres,mongodb,redis,docker,git,github)](https://skillicons.dev)
+*(Core Specializations: NestJS, TypeScript, PySpark, HDFS, and System Architecture)*
+
 
 <details>
 <summary>📂 Backend Development & Architecture</summary>
@@ -51,7 +55,7 @@ I am a passionate backend engineer, system architect, and MLOps enthusiast, deep
 
 ## 🤝 Get in Touch
 
-- 💼 Connect with me on [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/abd-el-hamed-hassan/)) 
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abd-el-hamed-hassan/) *(Update with your direct link!)*
 - ✉️ Let’s collaborate on SaaS development, backend engineering systems, or complex data pipelines.
 
 ---
