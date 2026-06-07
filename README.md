@@ -17,7 +17,7 @@ I am a passionate backend engineer, system architect, and MLOps enthusiast, deep
 - 🛠️ **Current Focus:** Leading the development of **Cognita**, a robust SaaS platform focused on organization and workspace management.
 - 🐳 **Infrastructure & MLOps:** Building end-to-end data pipelines and model monitoring infrastructure using **PySpark, HDFS, and Docker**.
 - 📐 **System Design:** Passionate about clean architecture, UML/Mermaid sequencing, database optimization, and secure identity management.
-- 🎓 **Academics:** Computer Science Senior (Class of 2026), actively studying advanced Networking, Algorithms, and Social Data Analytics.
+- 🎓 **Academics:** Computer Science Senior (Class of 2026).
 
 ## 🛠️ Tech Stack & Tools
 [![My Skills](https://skillicons.dev/icons?i=ts,py,cpp,nestjs,nodejs,postgres,mongodb,redis,docker,git,github)](https://skillicons.dev)
@@ -33,13 +33,6 @@ I am a passionate backend engineer, system architect, and MLOps enthusiast, deep
 - RESTful API design and structured Git branch management workflow
 </details>
 
-<details>
-<summary>📊 Data Engineering & MLOps</summary>
-
-- Distributed data processing with **PySpark** and **HDFS** containerized pipelines
-- Dockerized deployment setups for backend and data lake components
-- Social Data Analytics and structured network data manipulation
-</details>
 
 ---
 
