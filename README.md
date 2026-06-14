@@ -48,7 +48,7 @@ I am a passionate backend engineer, system architect, and MLOps enthusiast, deep
 
 ## 🤝 Get in Touch
 
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abd-el-hamed-hassan/) *(Update with your direct link!)*
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelhamidhassan/) *(Update with your direct link!)*
 - ✉️ Let’s collaborate on SaaS development, backend engineering systems, or complex data pipelines.
 
 ---
